@@ -8,19 +8,20 @@ body {
   font-weight: lighter;
 }
 h1, h2, h3 {
-  font-family: Antic, sans-serif;
+  font-family: PT sans, sans-serif;
   font-weight: bold;
 }
 h1 {
 	font-size: 40px;
+  color: #5271ff;
   
 }
 h2 {
   font-size: 24px;
-  color: #6A71E1;
+  color: #5271ff;
 }
 a {
-  color: #6A71E1;
+  color: #5271ff;
   text-decoration: none;
 }
 a:hover {
@@ -35,7 +36,7 @@ a:hover {
   text-align: center;
   color: white;
   padding: 150px 0px;
-  background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url("https://images.unsplash.com/photo-1462899006636-339e08d1844e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 0%), url("images/Couverture2.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -51,7 +52,7 @@ a:hover {
 }
 .btn-blue {
   color: white;
-  background: #6772e5;
+  background: #5271ff;
   box-shadow: 0 4px 6px rgba(50,50,93,.11);
   border-radius: 4px;
   padding: 15px 20px;
@@ -109,7 +110,7 @@ a:hover {
 .navigation{
   height: 60px;
   font-color: white;
-  color: #6772EB;
+  color: #5271ff;
   font-size: 30px;
   text-align: center;
 }

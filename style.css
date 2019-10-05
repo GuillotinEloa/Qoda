@@ -8,7 +8,7 @@ body {
   font-weight: lighter;
 }
 h1, h2, h3 {
-  font-family: Mansalva, cursive;
+  font-family: 'courgette', cursive; 
   font-weight: bold;
 }
 h1 {
@@ -36,7 +36,7 @@ a:hover {
   text-align: center;
   color: white;
   padding: 150px 0px;
-  background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 0%), url("images/Couverture2.jpg");
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.4) 0%), url("images/Couverture2.jpg");
   background-size: cover;
   background-position: center;
 }
